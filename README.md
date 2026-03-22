@@ -1,5 +1,5 @@
 Tema: Structura unei organizatii
-    Problema: Gestionarea unor angajati, salariile acestora si relatiile ierarhice dintre ei
+Problema: Gestionarea unor angajati, salariile acestora si relatiile ierarhice dintre ei
 
     Date de intrare: nume, varsta, functie, id
     - salariu de baza, bonusuri
